@@ -51,7 +51,7 @@ The intersection of technology and real-world impact. Whether I'm architecting a
 
 ### Key Achievements
 - 📉 Achieved **70% reduction** in system and database load by identifying and removing legacy processes
-- 🔄 Designed and implemented **zero-downtime data migration** strategy for a high-load system handling **1M+ transactions/hour**
+- 🔄 Designed and implemented **zero-downtime data migration** strategy for a high-load system handling **1M+ transactions per hour**
 - 🚀 Led **CI/CD modernization initiative**, migrating from on-premise tools to GitLab with optimized pipelines
 - 🏗️ Contributing to unified platform architecture replacing three existing systems
 
@@ -76,7 +76,7 @@ The intersection of technology and real-world impact. Whether I'm architecting a
 
 ## 🔮 What's Next
 
-I'm excited about opportunities to work on challenging projects that push technological boundaries while solving meaningful problems. Always open to connecting with fellow engineers, innovative companies, and anyone passionate about the future of software development.
+I'm excited about opportunities to work on challenging projects that push technological boundaries while solving meaningful problems. I'm always open to connecting with fellow engineers, innovative companies, and anyone passionate about the future of software development.
 
 **Let's build something amazing together! 🚀💻**
 

@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Victor Balan 👋
 
-<!--
-**victorbln/victorbln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building great software.
 
-Here are some ideas to get you started:
+## 🌐 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-victorbalan.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victorbalan.com/)
+
+## 💻 About Me
+
+- 🔭 I'm always working on exciting projects
+- 🌱 Constantly learning and improving my skills
+- 💬 Feel free to reach out if you want to collaborate or just chat!
+
+## 📫 How to reach me
+
+Visit my personal website: **[victorbalan.com](https://victorbalan.com/)**
+
+---
+
+⭐️ From [victorbln](https://github.com/victorbln)
